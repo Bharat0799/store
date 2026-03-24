@@ -2,7 +2,7 @@
 A fully responsive, production-level Shopify-style e-commerce frontend project built to simulate a real-world online store experience. This project focuses on UI/UX, conversion optimization and modern frontend practices.
 
 🚀 Live Demo
-👉 (Add your deployed link here)
+👉 https://bharat0799.github.io/store/
 
 🔐 Demo Login Credentials
 Use the following credentials to access user-specific features:
